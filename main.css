@@ -37,3 +37,9 @@ aside {
     width: 200px;
     margin-right: 20px;
 }
+footer {
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+}
